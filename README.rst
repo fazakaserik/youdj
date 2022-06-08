@@ -1,10 +1,9 @@
-Sample Module Repository
+YouDJ - YouTube DJ Mixer
 ========================
 
-This simple project is an example repo for Python projects.
-
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
+People always ask **"Do you have that song"** and you have to happily say **"Nah, I don't have that on my pendrive..."**?
+Now here's the answer!
 
 ---------------
 
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
+This is just an experimental project for now.
