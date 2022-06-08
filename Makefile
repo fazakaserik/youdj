@@ -3,3 +3,6 @@ init:
 
 test:
 	nosetests tests
+
+clean:
+    rm -rf __pycache__
