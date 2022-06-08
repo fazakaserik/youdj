@@ -7,3 +7,5 @@ Now here's the answer!
 ---------------
 
 This is just an experimental project for now.
+
+![alt text](img/first_look.jpg "First YouDJ screenshot")
